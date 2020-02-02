@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Hi Elanor`,
-    subtitle: `I love you`,
+    title: `Sarah Deakin`,
+    subtitle: `Web content developer and podcast cohost`,
     description: `A minimal blog starter built with Gatsbyjs. The needed Gatsby files are included.`,
     author: `@sdeakin93`,
   },
@@ -61,7 +61,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/sjd-logo.jpg`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

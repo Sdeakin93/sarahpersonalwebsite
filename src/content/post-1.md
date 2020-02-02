@@ -1,45 +1,8 @@
 ---
-title: "This is such a long headline and i dont know what to write so i keep continiung"
-date: "2019-03-17"
+title: "Starling Bank"
+date: "2020-02-02"
 draft: false
-path: "/blog/example-title"
----
-# H1
-
-## H2
-
-### H3
-
-#### H4
-
-##### H5
-
-###### H6
-
-Paragraph
-
+path: "/blog/starling-bank"
 ---
 
-> This is a quote
-
----
-
-[Example.com](example.com)
-
----
-
-`const foo = bar`
-
-```javascript
-const foo = bar
-console.log(foo);
-```
-
----
-
-| Hello | World |
-|-------|------ |
-| Foo   | Bar   |
-
-
-
+Working as part of the web team at [Starling Bank](https://starlingbank.com) 
